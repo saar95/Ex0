@@ -8,6 +8,6 @@ public class ex0 {
 
 
     public static void Main(String S){
-        System.out.println("Hello");
+        System.out.println("Hello!");
     }
 }
